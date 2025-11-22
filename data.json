@@ -1,0 +1,296 @@
+[
+{
+    "nome": "JavaScript",
+    "descricao": "O JS é a linguagem da galera",
+    "ano": 1995,
+    "link": "https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"
+},
+{
+    "nome": "Python",
+    "descricao": "O Python é a linguagem da ciência de dados e IA",
+    "ano": 1991,
+    "link": "https://docs.python.org/pt-br/3/"
+},
+{
+    "nome": "Java",
+    "descricao": "Java é uma linguagem de programação orientada a objetos e de propósito geral.",
+    "ano": 1995,
+    "link": "https://docs.oracle.com/en/java/"
+},
+{
+    "nome": "C#",
+    "descricao": "C# (C Sharp) é uma linguagem moderna, orientada a objetos e desenvolvida pela Microsoft.",
+    "ano": 2000,
+    "link": "https://docs.microsoft.com/pt-br/dotnet/csharp/"
+},
+{
+    "nome": "TypeScript",
+    "descricao": "TypeScript é um superconjunto de JavaScript que adiciona tipagem estática opcional.",
+    "ano": 2012,
+    "link": "https://www.typescriptlang.org/docs/"
+},
+{
+    "nome": "Go",
+    "descricao": "Go (ou Golang) é uma linguagem de programação criada pelo Google, focada em simplicidade e concorrência.",
+    "ano": 2009,
+    "link": "https://go.dev/doc/"
+},
+{
+    "nome": "Rust",
+    "descricao": "Rust é uma linguagem de programação focada em segurança, velocidade e concorrência.",
+    "ano": 2010,
+    "link": "https://www.rust-lang.org/pt-BR/learn"
+},
+{
+    "nome": "C++",
+    "descricao": "C++ é uma linguagem de programação de propósito geral, com foco em performance e sistemas.",
+    "ano": 1985,
+    "link": "https://isocpp.org/get-started"
+},
+{
+    "nome": "PHP",
+    "descricao": "PHP é uma linguagem de script popular de código aberto, especialmente adequada para o desenvolvimento web.",
+    "ano": 1995,
+    "link": "https://www.php.net/docs.php"
+},
+{
+    "nome": "Ruby",
+    "descricao": "Ruby é uma linguagem de programação dinâmica, de código aberto, com foco na simplicidade e produtividade.",
+    "ano": 1995,
+    "link": "https://www.ruby-lang.org/pt/documentation/"
+},
+{
+    "nome": "Swift",
+    "descricao": "Swift é uma linguagem de programação poderosa e intuitiva criada pela Apple para construir apps para iOS, Mac, Apple TV e Apple Watch.",
+    "ano": 2014,
+    "link": "https://developer.apple.com/swift/documentation/"
+},
+{
+    "nome": "Kotlin",
+    "descricao": "Kotlin é uma linguagem de programação moderna e estaticamente tipada, oficial para desenvolvimento Android.",
+    "ano": 2011,
+    "link": "https://kotlinlang.org/docs/home.html"
+},
+{
+    "nome": "Scala",
+    "descricao": "Scala combina programação orientada a objetos e funcional, projetada para ser concisa e rodar na JVM.",
+    "ano": 2004,
+    "link": "https://docs.scala-lang.org/"
+},
+{
+    "nome": "Perl",
+    "descricao": "Perl é uma linguagem dinâmica e interpretada, conhecida por sua poderosa capacidade de processamento de texto.",
+    "ano": 1987,
+    "link": "https://www.perl.org/docs.html"
+},
+{
+    "nome": "R",
+    "descricao": "R é uma linguagem e ambiente para computação estatística e gráficos, amplamente usada por estatísticos e analistas de dados.",
+    "ano": 1993,
+    "link": "https://www.r-project.org/other-docs.html"
+},
+{
+    "nome": "SQL",
+    "descricao": "SQL (Structured Query Language) é uma linguagem padrão para gerenciar e manipular bancos de dados relacionais.",
+    "ano": 1974,
+    "link": "https://www.w3schools.com/sql/"
+},
+{
+    "nome": "HTML",
+    "descricao": "HTML (HyperText Markup Language) é a linguagem de marcação padrão para criar páginas e aplicações web.",
+    "ano": 1993,
+    "link": "https://developer.mozilla.org/pt-BR/docs/Web/HTML"
+},
+{
+    "nome": "CSS",
+    "descricao": "CSS (Cascading Style Sheets) é uma linguagem usada para descrever a apresentação de um documento escrito em HTML.",
+    "ano": 1996,
+    "link": "https://developer.mozilla.org/pt-BR/docs/Web/CSS"
+},
+{
+    "nome": "Objective-C",
+    "descricao": "Objective-C é uma linguagem de programação orientada a objetos que foi a principal linguagem para desenvolvimento Apple antes do Swift.",
+    "ano": 1984,
+    "link": "https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html"
+},
+{
+    "nome": "Shell Script (Bash)",
+    "descricao": "Bash é um interpretador de comandos e linguagem de script, comum em sistemas Unix-like, para automação de tarefas.",
+    "ano": 1989,
+    "link": "https://www.gnu.org/software/bash/manual/"
+},
+{
+    "nome": "PowerShell",
+    "descricao": "PowerShell é um shell de linha de comando e linguagem de script da Microsoft, construído sobre o .NET Framework.",
+    "ano": 2006,
+    "link": "https://docs.microsoft.com/pt-br/powershell/"
+},
+{
+    "nome": "Groovy",
+    "descricao": "Groovy é uma linguagem dinâmica e opcionalmente tipada para a plataforma Java, com sintaxe concisa e expressiva.",
+    "ano": 2003,
+    "link": "https://groovy-lang.org/documentation.html"
+},
+{
+    "nome": "Lua",
+    "descricao": "Lua é uma linguagem de script leve, poderosa e embutível, popular em desenvolvimento de jogos e sistemas embarcados.",
+    "ano": 1993,
+    "link": "https://www.lua.org/docs.html"
+},
+{
+    "nome": "Haskell",
+    "descricao": "Haskell é uma linguagem de programação puramente funcional, com tipagem estática e avaliação preguiçosa (lazy evaluation).",
+    "ano": 1990,
+    "link": "https://www.haskell.org/documentation/"
+},
+{
+    "nome": "Elixir",
+    "descricao": "Elixir é uma linguagem dinâmica e funcional, construída sobre a Erlang VM, para criar aplicações escaláveis e de baixa latência.",
+    "ano": 2012,
+    "link": "https://elixir-lang.org/docs.html"
+},
+{
+    "nome": "Erlang",
+    "descricao": "Erlang é uma linguagem funcional e concorrente, projetada para sistemas distribuídos, tolerantes a falhas e de alta disponibilidade.",
+    "ano": 1986,
+    "link": "https://www.erlang.org/docs"
+},
+{
+    "nome": "Clojure",
+    "descricao": "Clojure é um dialeto moderno da linguagem Lisp, uma linguagem funcional que roda na JVM, CLR e JavaScript.",
+    "ano": 2007,
+    "link": "https://clojure.org/guides/getting_started"
+},
+{
+    "nome": "F#",
+    "descricao": "F# (F Sharp) é uma linguagem de programação funcional, de código aberto e multiplataforma do ecossistema .NET.",
+    "ano": 2005,
+    "link": "https://fsharp.org/docs/"
+},
+{
+    "nome": "Dart",
+    "descricao": "Dart é uma linguagem otimizada para cliente para construir apps rápidos em qualquer plataforma, criada pelo Google.",
+    "ano": 2011,
+    "link": "https://dart.dev/guides"
+},
+{
+    "nome": "Julia",
+    "descricao": "Julia é uma linguagem de programação de alto nível e alto desempenho para computação técnica e científica.",
+    "ano": 2012,
+    "link": "https://docs.julialang.org/"
+},
+{
+    "nome": "Assembly",
+    "descricao": "Assembly é uma linguagem de programação de baixo nível que corresponde diretamente às instruções de máquina de um processador.",
+    "ano": 1949,
+    "link": "https://en.wikipedia.org/wiki/Assembly_language"
+},
+{
+    "nome": "COBOL",
+    "descricao": "COBOL é uma das linguagens de programação mais antigas, usada principalmente em sistemas de negócios e financeiros.",
+    "ano": 1959,
+    "link": "https://www.ibm.com/docs/en/cobol-zos/6.4"
+},
+{
+    "nome": "Fortran",
+    "descricao": "Fortran é uma linguagem de programação de propósito geral, especialmente adequada para computação numérica e científica.",
+    "ano": 1957,
+    "link": "https://fortran-lang.org/learn/"
+},
+{
+    "nome": "Lisp",
+    "descricao": "Lisp é a segunda linguagem de programação de alto nível mais antiga, conhecida por sua notação de prefixo totalmente entre parênteses.",
+    "ano": 1958,
+    "link": "https://common-lisp.net/documentation"
+},
+{
+    "nome": "Pascal",
+    "descricao": "Pascal é uma linguagem de programação influente, projetada para encorajar boas práticas de programação usando programação estruturada.",
+    "ano": 1970,
+    "link": "https://www.freepascal.org/docs.var"
+},
+{
+    "nome": "Ada",
+    "descricao": "Ada é uma linguagem de programação estruturada e estaticamente tipada, projetada para sistemas embarcados e de missão crítica.",
+    "ano": 1980,
+    "link": "http://www.ada-auth.org/standards/rm12_w_tc1/html/RM-TTL.html"
+},
+{
+    "nome": "Prolog",
+    "descricao": "Prolog é uma linguagem de programação lógica associada à inteligência artificial e linguística computacional.",
+    "ano": 1972,
+    "link": "http://www.gprolog.org/manual/gprolog.html"
+},
+{
+    "nome": "Scheme",
+    "descricao": "Scheme é um dialeto minimalista da linguagem Lisp, conhecido por sua simplicidade e elegância.",
+    "ano": 1975,
+    "link": "https://schemers.org/Documents/Standards/R5RS/"
+},
+{
+    "nome": "Smalltalk",
+    "descricao": "Smalltalk é uma linguagem de programação orientada a objetos, dinâmica e reflexiva, que influenciou muitas linguagens modernas.",
+    "ano": 1972,
+    "link": "http://www.smalltalk.org/documentation/"
+},
+{
+    "nome": "Visual Basic .NET",
+    "descricao": "VB.NET é uma linguagem de programação orientada a objetos da Microsoft, sucessora do clássico Visual Basic.",
+    "ano": 2002,
+    "link": "https://docs.microsoft.com/pt-br/dotnet/visual-basic/"
+},
+{
+    "nome": "Delphi",
+    "descricao": "Delphi é um ambiente de desenvolvimento integrado e linguagem baseada em Object Pascal para desenvolvimento rápido de aplicações.",
+    "ano": 1995,
+    "link": "https://www.embarcadero.com/products/delphi"
+},
+{
+    "nome": "ABAP",
+    "descricao": "ABAP é uma linguagem de programação de alto nível criada pela SAP para o desenvolvimento de aplicações em sua plataforma.",
+    "ano": 1983,
+    "link": "https://help.sap.com/doc/abapdocu_752_index_htm/7.52/en-US/index.htm"
+},
+{
+    "nome": "Apex",
+    "descricao": "Apex é uma linguagem de programação fortemente tipada e orientada a objetos usada para construir aplicações na plataforma Salesforce.",
+    "ano": 2006,
+    "link": "https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_intro.htm"
+},
+{
+    "nome": "Crystal",
+    "descricao": "Crystal é uma linguagem de programação compilada e de propósito geral, com sintaxe inspirada em Ruby.",
+    "ano": 2014,
+    "link": "https://crystal-lang.org/reference/"
+},
+{
+    "nome": "D",
+    "descricao": "D é uma linguagem de programação de sistemas com sintaxe semelhante a C++, mas com design mais moderno.",
+    "ano": 2001,
+    "link": "https://dlang.org/spec/spec.html"
+},
+{
+    "nome": "Elm",
+    "descricao": "Elm é uma linguagem funcional para criar interfaces web, que compila para JavaScript e é conhecida por não ter exceções em tempo de execução.",
+    "ano": 2012,
+    "link": "https://guide.elm-lang.org/"
+},
+{
+    "nome": "Haxe",
+    "descricao": "Haxe é uma linguagem de programação de alto nível e de código aberto que pode compilar para várias plataformas diferentes.",
+    "ano": 2005,
+    "link": "https://haxe.org/documentation/introduction/"
+},
+{
+    "nome": "Nim",
+    "descricao": "Nim é uma linguagem de programação estaticamente tipada, compilada e de propósito geral, com foco em desempenho e expressividade.",
+    "ano": 2008,
+    "link": "https://nim-lang.org/documentation.html"
+},
+{
+    "nome": "Zig",
+    "descricao": "Zig é uma linguagem de programação de sistemas de propósito geral e uma toolchain para manter software robusto, ótimo e reutilizável.",
+    "ano": 2016,
+    "link": "https://ziglang.org/documentation/master/"
+}
+]
